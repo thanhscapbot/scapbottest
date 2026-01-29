@@ -1,0 +1,6 @@
+name = "scapbottest" # Đổi tên này cho giống tên dự án trên Cloudflare
+compatibility_date = "2024-01-01"
+
+[assets]
+directory = "."
+binding = "ASSETS"
